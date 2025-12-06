@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Drive (From F1® The Movie)",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-06T12:47:13.698923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/01_Drive_(From_F1®_The_Movie)_Ed_Sheeran.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/02_Drive_(From_F1®_The_Movie)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drive (From F1® The Movie) (Paused)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/03_Drive_(From_F1®_The_Movie)_(Paused)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ed Sheeran - Drive (From F1® The Movie) [Official Music Video]",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/04_Ed_Sheeran_-_Drive_(From_F1®_The_Movie)_[Official_Music_Video]_Ed_Sheeran.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran; F1 The Album",
+      "has_synced": true,
+      "path": "select/05_Drive_(From_F1®_The_Movie)_Ed_Sheeran;_F1_The_Album.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drive (From F1® The Movie) (From F1® The Movie)",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/06_Drive_(From_F1®_The_Movie)_(From_F1®_The_Movie)_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drive (From F1® The Movie)",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Drive_(From_F1®_The_Movie)_Ed_Sheeran.txt"
+    }
+  ]
+}
